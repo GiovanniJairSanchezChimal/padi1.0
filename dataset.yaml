@@ -1,0 +1,5 @@
+train: C:\Users\ghost\padi\data\train\
+val: C:\Users\ghost\padi\data\val\
+test: C:\Users\ghost\padi\images\YOLODataset/images/test/
+nc: 1
+names: ['vaso']
